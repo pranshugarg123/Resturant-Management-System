@@ -62,3 +62,6 @@ Implemented via custom middleware:
 
 ```js
 roleAuth('manager', 'self')
+
+<img width="1077" alt="Screenshot 2025-06-20 at 11 03 00 AM" src="https://github.com/user-attachments/assets/5f78fa8c-9966-4871-8b6e-03c692745704" /> <img width="1004" alt="Screenshot 2025-06-20 at 11 06 52 AM" src="https://github.com/user-attachments/assets/28abf14f-168d-4074-8aa1-0455b1f82b77" /> <img width="1034" alt="Screenshot 2025-06-20 at 11 08 39 AM" src="https://github.com/user-attachments/assets/ad3d3555-c11b-4f28-9954-e2b0a1cdeff4" /> ```
+
