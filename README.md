@@ -62,8 +62,5 @@ Implemented via custom middleware:
 
 ```js
 roleAuth('manager', 'self')
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/403bf4c1-d6dd-4b75-ad55-69d33a54894b" 
-       alt="Screenshot 2025-06-20 at 11:03 AM" 
-       width="800" />
-</p>
+
+<p align="center"> <img src="https://github.com/user-attachments/assets/861a548a-f84c-4199-a021-13a45846ac9a" alt="Signup/Login Screenshot" width="800" /> </p> <p align="center"> <img src="https://github.com/user-attachments/assets/5be0d52c-41be-441e-a952-556426ca0503" alt="Person API Screenshot" width="800" /> </p> <p align="center"> <img src="https://github.com/user-attachments/assets/03692382-ab82-4bf2-a450-886e264f94c0" alt="Menu API Screenshot" width="800" /> </p>
